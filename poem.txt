@@ -1,5 +1,6 @@
 The rainbow
 green
 red
+blue
 another green
 another red
